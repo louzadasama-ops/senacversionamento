@@ -1,0 +1,13 @@
+usuario e senha do github
+usuario:vinculo google
+senha:
+
+echo "# senacversionamento" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/louzadasama-ops/senacversionamento.git
+git push -u origin main
+
+
